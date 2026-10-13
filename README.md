@@ -1,6 +1,8 @@
 # Portfolio
 
-This is a repo for my CV portfolio.
+This is a repo for my CV portfolio. 
+
+[![View my portfolio](./images/portfolio-link.png)](https://github.com/chuckieberry/portfolio)
 
 # Mark — Portfolio
 
